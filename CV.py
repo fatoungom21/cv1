@@ -1,0 +1,55 @@
+import streamlit as st
+
+with st.sidebar:
+    st.image("ndeya.jpg")
+    st.write("FATOU NGOM")
+    st.write("CONTACTS")
+    st.write("Email: ngomfatou21102004@gmail.com")
+    st.write("Tel: 776857741")
+    st.write("Adresse: Keur Mbaye Fall,Toll Diaz")
+    st.write("FORMATIONS")
+    st.write("2022-2023: BAC L2")
+    st.write("2023-2024: Licence1 en Geographie")
+     st.write("2024-2025: Licence2 en Geographie,Licence1 en Geomatique")
+     st.write("2025-2026: Licence3 en Geographie")
+    st.write("2025-2026:BTS en Geomatique")
+
+st.header("Technicienne supérieure en Geomatique")
+
+st.subheader("A propos de moi")
+st.write("Etudiante passionnée par l'analyse spatiale,la cartographie et la geographie ,je me spécialise dans l'acquisition et le traitement de données spatiales rigoureuse et polyvalente ")
+
+st.subheader("Projets académiques")
+st.write(" Conception de base de données)
+st.write("Projection cartographique: Collecte de données aux environs du CEDT G15 ")
+st.write("Georeferencement d'une carte")
+st.write("Traitement d'image via AgisoftMetashape et Pix4d Capture")
+st.write("Traitement de données topograhique a travers Microstation")
+st.write("Technique de base de la Géographie: réalisation de cartes ( themeatiques et de situation)")
+ 
+
+st.subheader("Logiciel Maitriser")
+st.write("ARCGIS") 
+st.write("QGIS")
+st.write("Agisoft Metashape")
+st.write("Pix4D Capture")
+st.write("PowerPoint")
+st.write("Erdas")
+st.write("MicoStation")
+st.write("Word")
+st.write("Excel")
+st.write("AutoCard")
+st.write("Looping")
+
+st.subheader("Compétences")
+st.write("Conception de base de données QGIS et ARCGIS")
+st.write("Concevoir une base de donnée sur POWER AMC, Post gres")
+st.write("Géoreferencement de carte")
+st.write("Numérisation")
+st.write("Maitrise des techniques de collecte données:application Mobile Topo ,Qfield")
+st.write("Conception  de Plans sur Autocad")
+st.write("Maitrise avancée du Pack Office (EXCEL pour le traitement de données topographiques, WORD pour la réedaction de rapports technique, POWER POINT pour la Presentation de projets")
+
+st.subheader("Perspectives")
+st.write("j'aspire à mettre mes compétences en Sig et téledetection au service de projets de développement territoial")
+st.write("Expertise")
