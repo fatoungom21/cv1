@@ -1,6 +1,6 @@
 import streamlit as st
 
-with st.sidebar
+with st.sidebar:
 st.image("ndeya.jpg")
 st.write("FATOU NGOM")
 st.write("CONTACTS")
