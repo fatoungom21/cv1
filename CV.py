@@ -40,7 +40,7 @@ st.markdown("""
 *Maitrise des techniques de collecte données:application Mobile Topo ,Qfield
 *Maitrise avancée du Pack Office (EXCEL pour le traitement de données topographiques, WORD pour la rédaction de rapports technique, POWER POINT pour la Presentation de projets)
 """)
-   
+
 
 st.subheader("Perspectives")
 st.write("j'aspire à mettre mes compétences en Sig et téledetection au service de projets de développement territoial")
