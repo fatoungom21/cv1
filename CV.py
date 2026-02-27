@@ -16,7 +16,7 @@ st.write("2025-2026:BTS en Geomatique")
 
 st.header("Technicienne supérieure en Geomatique")
 
-st.subheader("A propos de moi")
+st.subheader("DESCRIPTION")
 st.write("Etudiante passionnée par l'analyse spatiale,la cartographie et la geographie ,je me spécialise dans l'acquisition et le traitement de données spatiales rigoureuse et polyvalente ")
 
 st.subheader("Projets académiques")
