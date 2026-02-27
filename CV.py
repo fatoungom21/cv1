@@ -34,7 +34,7 @@ st.write("*Potogrammetrie:Traitement d'image")
 st.write("*Topographie")
 st.write("*Technique de base de la Géographie: réalisation de cartes ( themeatiques et de situation)")
 st.write("*Maitrise des techniques de collecte données:application Mobile Topo ,Qfield")
-st.write("*Maitrise avancée du Pack Office (EXCEL pour le traitement de données topographiques, WORD pour la réedaction de rapports technique, POWER POINT pour la Presentation de projets)")
+st.write("*Maitrise avancée du Pack Office (EXCEL pour le traitement de données topographiques, WORD pour la rédaction de rapports technique, POWER POINT pour la Presentation de projets)")
    
 
 st.subheader("Perspectives")
