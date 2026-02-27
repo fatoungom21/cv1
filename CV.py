@@ -1,11 +1,11 @@
 import streamlit as st
 st.header("Curricculum Vitae")
 
- st.sidebar.write("Fatou Ngom")
+ st.write("Fatou Ngom")
  st.sidebar.write("CONTACTS")
-st.sidebar.write("Email: ngomfatou21102004@gmail.com")
-st.sidebar.write("Tel: 776857741")
-st.sidebar.write("Adresse: Keur Mbaye Fall,Toll Diaz")
+ st.sidebar.write("Email: ngomfatou21102004@gmail.com")
+ st.sidebar.write("Tel: 776857741")
+ st.sidebar.write("Adresse: Keur Mbaye Fall,Toll Diaz")
  
  st.subheader("Projets académiques")
  st.write("Formations")
