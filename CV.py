@@ -34,7 +34,7 @@ st.subheader("Compétences")
 st.markdown("""
 *Conception de base de données
 *SIG
-*Potogrammetrie:Traitement d'image
+*Potogrammetrie:(Traitement d'image)
 *Topographie
 *Technique de base de la Géographie: réalisation de cartes ( themeatiques et de situation)
 *Maitrise des techniques de collecte données:application Mobile Topo ,Qfield
