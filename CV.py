@@ -1,5 +1,5 @@
 import streamlit as st
-st.header("Curricculum Vitae")
+st.header("CURRICULUM VITAE")
 
  st.write("Fatou Ngom")
  st.sidebar.write("CONTACTS")
