@@ -1,13 +1,13 @@
 import streamlit as st
+st.header("Curricculum Vitae")
 
-with st.sidebar:
- st.write("Fatou Ngom")
- st.write("CONTACTS")
- st.write("Email: ngomfatou21102004@gmail.com")
- st.write("Tel: 776857741")
- st.write("Adresse: Keur Mbaye Fall,Toll Diaz")
+ st.sidebar.write("Fatou Ngom")
+ st.sidebar.write("CONTACTS")
+st.sidebar.write("Email: ngomfatou21102004@gmail.com")
+st.sidebar.write("Tel: 776857741")
+st.sidebar.write("Adresse: Keur Mbaye Fall,Toll Diaz")
  
-st.subheader("Projets académiques")
+ st.subheader("Projets académiques")
  st.write("Formations")
  st.write("2022-2023: BAC L2")
  st.write("2023-2024: Licence1 en Geographie")
@@ -15,7 +15,7 @@ st.subheader("Projets académiques")
  st.write("2025-2026: Licence3 en Geographie")
  st.write("2025-2026:BTS en Geomatique")
 
-st.header("Curricculum Vitae")
+
 
 st.subheader("DESCRIPTION")
 st.write("Etudiante passionnée par l'analyse spatiale,la cartographie et la geographie ,je me spécialise dans l'acquisition et le traitement de données spatiales rigoureuse et polyvalente ")
