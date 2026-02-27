@@ -20,7 +20,7 @@ st.subheader("DESCRIPTION")
 st.write("Etudiante passionnée par l'analyse spatiale,la cartographie et la geographie ,je me spécialise dans l'acquisition et le traitement de données spatiales rigoureuse et polyvalente ")
 
 st.subheader("Projets académiques")
-st.write(" Conception d'une base de donnée)
+st.write(" Conception d'une base de donnée")
 st.write("Projection cartographique: Collecte de données aux environs du CEDT G15 ")
 st.write("Georeferencement d'une carte")
 st.write("Traitement d'image via AgisoftMetashape et Pix4d Capture")
