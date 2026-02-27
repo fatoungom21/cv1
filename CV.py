@@ -8,7 +8,7 @@ with st.sidebar:
  st.write("Adresse: Keur Mbaye Fall,Toll Diaz")
  
 st.subheader("Projets académiques")
- st.write("FORMATIONS")
+ st.write("Formations")
  st.write("2022-2023: BAC L2")
  st.write("2023-2024: Licence1 en Geographie")
  st.write("2024-2025: Licence2 en Geographie,Licence1 en Geomatique")
