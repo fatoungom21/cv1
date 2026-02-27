@@ -31,8 +31,7 @@ st.write("Erdas")
 st.write("MicoStation")
 st.write("Word")
 st.write("Excel")
-st.write("AutoCard")
-st.write("Looping")
+
 
 st.subheader("Compétences")
 st.write("Conception de base de données")
