@@ -1,7 +1,6 @@
 import streamlit as st
 
 with st.sidebar:
-st.image("ndeya.jpg")
 st.write("FATOU NGOM")
 st.write("CONTACTS")
 st.write("Email: ngomfatou21102004@gmail.com")
