@@ -1,17 +1,18 @@
 import streamlit as st
 
 with st.sidebar:
-st.write("Fatou Ngom")
-st.write("CONTACTS")
-st.write("Email: ngomfatou21102004@gmail.com")
-st.write("Tel: 776857741")
-st.write("Adresse: Keur Mbaye Fall,Toll Diaz")
-st.write("FORMATIONS")
-st.write("2022-2023: BAC L2")
-st.write("2023-2024: Licence1 en Geographie")
-st.write("2024-2025: Licence2 en Geographie,Licence1 en Geomatique")
-st.write("2025-2026: Licence3 en Geographie")
-st.write("2025-2026:BTS en Geomatique")
+ st.write("Fatou Ngom")
+ st.write("CONTACTS")
+ st.write("Email: ngomfatou21102004@gmail.com")
+ st.write("Tel: 776857741")
+ st.write("Adresse: Keur Mbaye Fall,Toll Diaz")
+ st.write("FORMATIONS")
+ st.write("2022-2023: BAC L2")
+ st.write("2023-2024: Licence1 en Geographie")
+ st.write("2024-2025: Licence2 en Geographie,Licence1 en Geomatique")
+ st.write("2025-2026: Licence3 en Geographie")
+ st.write("2025-2026:BTS en Geomatique")
+
 
 st.header("Technicienne supérieure en Geomatique")
 
