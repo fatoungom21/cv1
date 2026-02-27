@@ -1,6 +1,6 @@
 import streamlit as st
 st.header("CURRICULUM VITAE")
-
+ st.image("ndeya.jpg")
  st.write("Fatou Ngom")
  st.sidebar.write("CONTACTS")
  st.sidebar.write("Email: ngomfatou21102004@gmail.com")
@@ -35,14 +35,11 @@ st.write("Excel")
 
 st.subheader("Compétences")
 st.write("Conception de base de données")
-st.write("Projection cartographique: Collecte de données aux environs du CEDT G15")
-st.write("Géoreferencement de carte")
-st.write("Numérisation")
-st.write("Traitement d'image via AgisoftMetashape et Pix4d Capture")
-st.write("Traitement de données topograhique a travers Microstation")
+st.write("SIG")
+st.write(" Potogrammetrie:Traitement d'image")
+st.write("Topographie")
 st.write("Technique de base de la Géographie: réalisation de cartes ( themeatiques et de situation)")
 st.write("Maitrise des techniques de collecte données:application Mobile Topo ,Qfield")
-st.write("Conception  de Plans sur Autocad")
 st.write("Maitrise avancée du Pack Office (EXCEL pour le traitement de données topographiques, WORD pour la réedaction de rapports technique, POWER POINT pour la Presentation de projets")
 
 st.subheader("Perspectives")
