@@ -1,7 +1,7 @@
 import streamlit as st
 
 with st.sidebar:
-st.write("FATOU NGOM")
+st.write("Fatou Ngom")
 st.write("CONTACTS")
 st.write("Email: ngomfatou21102004@gmail.com")
 st.write("Tel: 776857741")
